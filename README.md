@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-<td valign="top">
+<td align="center">
 
 **AI & Machine Learning**
 ```
@@ -23,7 +23,7 @@ LangChain · PyTorch · Scikit-Learn
 ```
 
 </td>
-<td valign="top">
+<td align="center">
 
 **Industrial Domain**
 ```
@@ -34,7 +34,7 @@ Thermodynamics · Kinematics
 ```
 
 </td>
-<td valign="top">
+<td align="center">
 
 **Engineering & Cloud**
 ```
