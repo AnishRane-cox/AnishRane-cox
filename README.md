@@ -1,55 +1,61 @@
-# Hi there, I'm Anish Rane 👋
-
-### 🚀 Data & AI Engineer | Innovating at the Intersection of Automotive Systems & Artificial Intelligence
-
-I specialize in bridging the gap between heavy mechanical engineering and next-generation artificial intelligence. My focus is on architecting intelligent solutions for the automotive and industrial sectors—bringing machine learning, Generative AI, and Agentic frameworks to commercial vehicles, EVs, and autonomous systems.
-
----
-
-### 💡 What I'm Currently Up To
-
-- 🔭 **Working on:** Architecting intelligent systems for **Autonomous, Hybrid, and Electric Vehicles (EVs)**, with a focus on optimizing heavy machinery and commercial fleets.
-- 🌱 **Learning & Researching:** Deep diving into **LLM-based Multi-Agent Reinforcement Learning (MARL)** to solve complex energy and mobility challenges.
-- 👯 **Looking to collaborate on:** Open-source projects or research involving **ADAS (Advanced Driver Assistance Systems)**, **Hybrid Power Management Systems**, and smart **EV Charging Infrastructure**.
-- 🤔 **Seeking insights on:** Advanced implementations of **Agentic AI** frameworks merging LLMs with MARL. 
-- 💬 **Ask me about:** Generative AI architectures (RAG, Agentic AI), predictive maintenance, autonomous vehicle tech, and thermodynamics/kinematics.
-
----
-
-### 🛠️ Technical Arsenal & Domain Expertise
-
-**Artificial Intelligence & Machine Learning:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-150458?style=for-the-badge)
-
-**Domain Focus:**
-![Automotive Engineering](https://img.shields.io/badge/Automotive_Engineering-D32F2F?style=for-the-badge&logo=tesla&logoColor=white)
-![Electric Vehicles](https://img.shields.io/badge/Electric_Vehicles-4CAF50?style=for-the-badge&logo=electric&logoColor=white)
-![Autonomous Systems](https://img.shields.io/badge/Autonomous_Systems-1976D2?style=for-the-badge)
-
----
-
-### 📊 GitHub Analytics
-
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnishRane-cox&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRane-cox&layout=compact&theme=radical" alt="Top Languages" />
+  <h1>Hi, I'm Anish Rane 👋</h1>
+  <p align="center">
+    <strong>Data & AI Engineer | Bridging Mechanical Systems & Agentic Intelligence</strong><br />
+    <em>Specializing in Industrial AI, MARL, and Predictive Systems for the Automotive Sector</em>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/anish-rane/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:anishrane2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="YOUR_BLOG_LINK"><img src="https://img.shields.io/badge/Engineering_Blog-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="Blog" /></a>
+  </p>
 </div>
 
 ---
 
-### 📫 Let's Connect!
+### 🚀 Professional Narrative
+I am a **Data & AI Engineer** with a foundational background in **Mechanical Engineering**. My mission is to architect intelligent, autonomous systems that solve complex industrial challenges. By combining deep domain knowledge of thermodynamics and kinematics with cutting-edge **Generative AI** and **Multi-Agent Reinforcement Learning (MARL)**, I build production-grade pipelines that optimize efficiency and safety in the automotive and energy sectors.
 
-Whether you want to discuss the future of LLM-driven mobility, collaborate on an ADAS project, or just talk tech—I'm always open to connecting.
+---
 
-<a href="mailto:anishrane2000@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/anish-rane/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="YOUR-WORDPRESS-BLOG-URL">
-  <img src="https://img.shields.io/badge/Read_My_Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Blog" />
-</a>
+### 🛠️ Technical Ecosystem
+
+| **AI & Machine Learning** | **Industrial & Engineering** | **Engineering & Cloud** |
+| :--- | :--- | :--- |
+| Agentic AI & RAG Architectures | Autonomous & Hybrid Vehicles | Python, SQL, C++ |
+| MARL & Deep Learning | Predictive Maintenance | Scikit-Learn, PyTorch, LangChain |
+| NLP & Computer Vision | Thermodynamics & Kinematics | CI/CD, Git, WordPress |
+
+---
+
+### 🏆 Featured Projects
+
+#### 🚛 [Industrial Fuel Optimization Pipeline](YOUR_REPO_LINK)
+*Developed a modular ML pipeline using Random Forest to optimize fuel consumption in heavy mining equipment, focusing on high-stakes industrial ROI.*
+
+#### 🤖 [RAG-Based Policy Analyzer](YOUR_REPO_LINK)
+*Built an end-to-end Retrieval-Augmented Generation interface for automated insurance policy analysis, featuring full citation tracking and Hallucination mitigation.*
+
+#### ⚡ [EV Energy Management Research](YOUR_REPO_LINK)
+*Investigating Agentic AI frameworks for real-time energy management in Hybrid and Electric Vehicles using Multi-Agent systems.*
+
+---
+
+### 📈 GitHub Ecosystem
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnishRane-cox&show_icons=true&theme=transparent&title_color=0077B5&text_color=333&icon_color=0077B5" alt="Anish's Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRane-cox&layout=compact&theme=transparent&title_color=0077B5&text_color=333" alt="Top Languages" />
+</div>
+
+---
+
+### 🎯 Current Focus
+- 🔭 **Architecting:** Intelligent agents for EV charging optimization and power management.
+- 🌱 **Researching:** The intersection of Large Language Models (LLMs) and Multi-Agent Reinforcement Learning.
+- 👯 **Collaborating:** On ADAS systems and open-source industrial AI frameworks.
+
+<p align="center">
+  <em>"Engineering is not just about moving parts; it's about the intelligence that guides them."</em>
+</p>
