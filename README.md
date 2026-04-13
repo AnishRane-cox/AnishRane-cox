@@ -1,5 +1,14 @@
 ![Banner](./banner.svg)
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a0f0d.svg?style=for-the-badge&logo=linkedin&logoColor=1D9E75)](https://www.linkedin.com/in/anish-rane/)
+[![Email](https://img.shields.io/badge/Email-%230a0f0d.svg?style=for-the-badge&logo=gmail&logoColor=1D9E75)](mailto:anishrane2000@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-%230a0f0d.svg?style=for-the-badge&logo=wordpress&logoColor=1D9E75)](YOUR_BLOG_LINK)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%231D9E75.svg?style=for-the-badge&logoColor=white)](YOUR_LINK)
+
+</div>
+
 ---
 
 ## `// about`
@@ -54,7 +63,7 @@ CI/CD · Git
 
 <table>
 <tr>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 ### ⛽ [Industrial Fuel Optimization Pipeline](YOUR_REPO_LINK)
 Modular ML pipeline using **Random Forest** to optimize fuel consumption in heavy mining equipment. Production-grade, high-stakes industrial ROI.
@@ -100,8 +109,8 @@ Currently building new projects in industrial AI and autonomous systems.
 ## `// github stats`
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AnishRane-cox&show_icons=true&theme=dark&bg_color=0a0f0d&title_color=1D9E75&text_color=9FE1CB&icon_color=1D9E75&border_color=1a3028&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRane-cox&layout=compact&theme=dark&bg_color=0a0f0d&title_color=1D9E75&text_color=9FE1CB&border_color=1a3028&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AnishRane-cox&show_icons=true&theme=dark&bg_color=0a0f0d&title_color=1D9E75&text_color=9FE1CB&icon_color=1D9E75&border_color=1a3028" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRane-cox&layout=compact&theme=dark&bg_color=0a0f0d&title_color=1D9E75&text_color=9FE1CB&border_color=1a3028" />
 </div>
 
 ---
