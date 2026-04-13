@@ -54,7 +54,7 @@ CI/CD · Git
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 ### ⛽ [Industrial Fuel Optimization Pipeline](YOUR_REPO_LINK)
 Modular ML pipeline using **Random Forest** to optimize fuel consumption in heavy mining equipment. Production-grade, high-stakes industrial ROI.
