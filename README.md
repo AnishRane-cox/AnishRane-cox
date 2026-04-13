@@ -1,75 +1,145 @@
 <div align="center">
 
+```
+// Data & AI Engineer
+```
+
 # Anish Rane
 
-**Data & AI Engineer** — bridging mechanical systems with agentic intelligence  
-*Specializing in Industrial AI, MARL, and Predictive Systems for the Automotive & Energy Sectors*
+**Bridging mechanical systems with agentic intelligence**  
+*Building production-grade AI for automotive, energy & industrial sectors*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-rane/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anishrane2000@gmail.com)
-[![Blog](https://img.shields.io/badge/Engineering_Blog-21759B?style=flat-square&logo=wordpress&logoColor=white)](YOUR_BLOG_LINK)
-![Open to Work](https://img.shields.io/badge/Open_to_Opportunities-1D9E75?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a0f0d.svg?style=for-the-badge&logo=linkedin&logoColor=1D9E75)](https://www.linkedin.com/in/anish-rane/)
+[![Email](https://img.shields.io/badge/Email-%230a0f0d.svg?style=for-the-badge&logo=gmail&logoColor=1D9E75)](mailto:anishrane2000@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-%230a0f0d.svg?style=for-the-badge&logo=wordpress&logoColor=1D9E75)](YOUR_BLOG_LINK)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-1D9E75?style=for-the-badge)](YOUR_LINK)
+
+`Agentic AI` `MARL` `RAG` `Industrial AI` `EV Systems`
 
 </div>
 
 ---
 
-## About
+## `// about`
 
-I hold a foundation in **Mechanical Engineering** and have grown into a **Data & AI Engineer** focused on intelligent, autonomous systems for industry. I combine domain knowledge of thermodynamics and kinematics with **Generative AI** and **Multi-Agent Reinforcement Learning (MARL)** to build production-grade pipelines that optimize efficiency and safety — particularly in the **automotive and energy sectors**.
-
----
-
-## Technical Ecosystem
-
-| AI & Machine Learning | Industrial Domain | Engineering & Cloud |
-| :--- | :--- | :--- |
-| Agentic AI & RAG Architectures | Autonomous & Hybrid Vehicles | Python · SQL · C++ |
-| MARL & Deep Learning | Predictive Maintenance | Scikit-Learn · PyTorch · LangChain |
-| NLP & Computer Vision | Thermodynamics & Kinematics | CI/CD · Git |
+> I hold a foundation in **Mechanical Engineering** and have grown into a **Data & AI Engineer** focused on intelligent, autonomous systems for industry. I combine domain knowledge of thermodynamics and kinematics with **Generative AI** and **Multi-Agent Reinforcement Learning** to build pipelines that optimize efficiency and safety — particularly in the **automotive and energy sectors**.
 
 ---
 
-## Featured Projects
+## `// technical ecosystem`
 
-### ⛽ [Industrial Fuel Optimization Pipeline](YOUR_REPO_LINK)
-Modular ML pipeline using **Random Forest** to optimize fuel consumption in heavy mining equipment. Focused on high-stakes industrial ROI with production-grade deployment.
+<table>
+<tr>
+<td valign="top" width="33%">
 
-`Random Forest` `Feature Engineering` `Industrial IoT` `Python`
+**AI & Machine Learning**
+```
+Agentic AI & RAG
+MARL & Deep Learning
+NLP & Computer Vision
+LangChain · PyTorch
+Scikit-Learn
+```
+
+</td>
+<td valign="top" width="33%">
+
+**Industrial Domain**
+```
+Autonomous & Hybrid Vehicles
+Predictive Maintenance
+EV / HEV Systems
+Thermodynamics
+Kinematics
+```
+
+</td>
+<td valign="top" width="33%">
+
+**Engineering & Cloud**
+```
+Python · SQL · C++
+PyTorch · LangChain
+Scikit-Learn
+CI/CD · Git
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔍 [RAG-Based Policy Analyzer](YOUR_REPO_LINK)
-End-to-end **Retrieval-Augmented Generation** interface for automated insurance policy analysis — with full citation tracking and hallucination mitigation built in.
+## `// featured projects`
 
-`RAG` `LangChain` `LLM` `Vector Search` `Python`
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### ⛽ Industrial Fuel Optimization Pipeline
+Modular ML pipeline using **Random Forest** to optimize fuel consumption in heavy mining equipment. Production-grade, high-stakes industrial ROI.
 
-### ⚡ [EV Energy Management Research](YOUR_REPO_LINK)
+`Random Forest` `Industrial IoT` `Python` `ML Pipeline`
+
+[↗ View Project](YOUR_REPO_LINK)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 RAG-Based Policy Analyzer
+End-to-end **Retrieval-Augmented Generation** interface for automated insurance policy analysis — full citation tracking & hallucination mitigation.
+
+`RAG` `LangChain` `Vector Search` `LLM`
+
+[↗ View Project](YOUR_REPO_LINK)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ EV Energy Management Research
 Investigating **Agentic AI** frameworks for real-time energy management in Hybrid & Electric Vehicles using Multi-Agent systems.
 
-`MARL` `Agentic AI` `EV Systems` `PyTorch` `Simulation`
+`MARL` `Agentic AI` `PyTorch` `EV Systems`
+
+[↗ View Project](YOUR_REPO_LINK)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚧 More coming soon...
+Currently building out new projects in industrial AI and autonomous systems. Watch this space.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+## `// github stats`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnishRane-cox&show_icons=true&theme=transparent&title_color=1D9E75&text_color=555&icon_color=1D9E75&hide_border=true" alt="Anish's Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRane-cox&layout=compact&theme=transparent&title_color=1D9E75&text_color=555&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnishRane-cox&show_icons=true&theme=dark&bg_color=0a0f0d&title_color=1D9E75&text_color=9FE1CB&icon_color=1D9E75&border_color=1a3028" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRane-cox&layout=compact&theme=dark&bg_color=0a0f0d&title_color=1D9E75&text_color=9FE1CB&border_color=1a3028" />
 </div>
 
 ---
 
-## Current Focus
+## `// current focus`
 
-- **Architecting** — Intelligent agents for EV charging optimization and power management
-- **Researching** — The intersection of Large Language Models (LLMs) and Multi-Agent Reinforcement Learning
-- **Collaborating** — ADAS systems and open-source industrial AI frameworks
+| 🔭 Architecting | 🌱 Researching | 🤝 Collaborating |
+|:---|:---|:---|
+| Intelligent agents for EV charging optimization and power management | Intersection of Large Language Models and Multi-Agent Reinforcement Learning | ADAS systems and open-source industrial AI frameworks |
 
 ---
 
 <div align="center">
-  <em>"Engineering is not just about moving parts — it's about the intelligence that guides them."</em>
+<br>
+
+```
+"Engineering is not just about moving parts —
+  it's about the intelligence that guides them."
+```
+
 </div>
