@@ -33,8 +33,10 @@ I specialize in bridging the gap between heavy mechanical engineering and next-g
 
 ### 📊 GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnishRane-cox&show_icons=true&theme=radical)](https://github.com/AnishRane-cox)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRane-cox&layout=compact&theme=radical)](https://github.com/AnishRane-cox)
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnishRane-cox&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRane-cox&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
@@ -45,7 +47,7 @@ Whether you want to discuss the future of LLM-driven mobility, collaborate on an
 <a href="mailto:anishrane2000@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-PROFILE">
+<a href="https://www.linkedin.com/in/anish-rane/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="YOUR-WORDPRESS-BLOG-URL">
