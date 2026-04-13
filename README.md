@@ -35,6 +35,7 @@
   <rect x="242" y="162" width="110" height="22" rx="4" fill="#1D9E75"/>
   <text x="297" y="177" class="btn" text-anchor="middle">Open to Work ✓</text>
 </svg>
+
 ![Banner](./banner.svg)
 
 ---
