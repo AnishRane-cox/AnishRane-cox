@@ -10,9 +10,9 @@
 
 ## `// technical ecosystem`
 
-<table>
+<table style="margin-left: auto; margin-right: auto;">
 <tr>
-<td align="center">
+<td valign="top" align="left">
 
 **AI & Machine Learning**
 ```
@@ -23,7 +23,7 @@ LangChain · PyTorch · Scikit-Learn
 ```
 
 </td>
-<td align="center">
+<td valign="top" align="left">
 
 **Industrial Domain**
 ```
@@ -34,7 +34,7 @@ Thermodynamics · Kinematics
 ```
 
 </td>
-<td align="center">
+<td valign="top" align="left">
 
 **Engineering & Cloud**
 ```
