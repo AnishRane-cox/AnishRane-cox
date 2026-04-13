@@ -33,10 +33,8 @@ I specialize in bridging the gap between heavy mechanical engineering and next-g
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnishRane-cox&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRane-cox&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnishRane-cox&show_icons=true&theme=radical)](https://github.com/AnishRane-cox)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishRane-cox&layout=compact&theme=radical)](https://github.com/AnishRane-cox)
 
 ---
 
