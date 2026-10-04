@@ -6,6 +6,8 @@
 [![Email](https://img.shields.io/badge/Email-%230a0f0d.svg?style=for-the-badge&logo=gmail&logoColor=1D9E75)](mailto:anishrane2000@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio%20%26%20Blog-%230a0f0d.svg?style=for-the-badge&logo=githubpages&logoColor=1D9E75)](https://anishrane-cox.github.io/Portfolio/)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%231D9E75.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-rane/)
+[![DEV](https://img.shields.io/badge/DEV.to-%230a0f0d.svg?style=for-the-badge&logo=devdotto&logoColor=1D9E75)](https://dev.to/mlaiinsightshub)
+[![Blog](https://img.shields.io/badge/Blog-%230a0f0d.svg?style=for-the-badge&logo=wordpress&logoColor=1D9E75)](https://mlaiinsightshub.blog)
 
 **Data & AI Engineer** · MSc Machine Learning & AI (LJMU) · Mechanical Engineer · Pune, India
 
